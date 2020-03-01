@@ -6,7 +6,7 @@ For this TDD project you need to add 10 passing tests inside `TDD_controller.php
 
 * Clone this repository and import `DB/tdd_db.sql` in phpmyadmin.
 
-* Copy and Paste `TDD` inside `/opt/lampp/htdocs`.
+* Copy and Paste `TDD` folder inside `/opt/lampp/htdocs`.
 
 * Update `TDD/config/database.php` with your database credentials.
 
