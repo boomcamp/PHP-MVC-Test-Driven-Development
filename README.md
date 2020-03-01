@@ -1,6 +1,6 @@
 # Test Driven Development
 
-For this TDD project you need to add 10 passing tests in our `TDD_model.php` and `TDD_controller.php`.
+For this TDD project you need to add 10 passing tests inside `TDD_controller.php`.
 
 # Initial Set Up
 
@@ -18,9 +18,9 @@ For this TDD project you need to add 10 passing tests in our `TDD_model.php` and
 
 # Requirements
 
-You need to fix the failing result of `test_hello()` and `test_type()` inside `TDD/controllers/TDD_controller.php`
+You need to fix the failing resuls for `test_hello()` and `test_type()` inside `TDD/controllers/TDD_controller.php`
 
-* Add new ten passing test for CRUD operations.
+* Add new ten passing tests for CRUD operations.
 
 
 # Finished
