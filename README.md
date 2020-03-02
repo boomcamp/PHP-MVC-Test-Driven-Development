@@ -48,7 +48,7 @@ public function test_type()
 }
 ```
 
-* Add new ten passing tests for CRUD operations.
+* Add new `ten passing` tests for `Create Read Update Delete` operations.
 
 
 # Finished
