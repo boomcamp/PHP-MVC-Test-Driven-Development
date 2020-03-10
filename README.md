@@ -48,7 +48,9 @@ public function test_type()
 }
 ```
 
-* Continue adding new `ten passing` tests for `Create Read Update Delete` operations.
+* Continue on adding new `ten passing` tests for `Create Read Update Delete` operations using ci testing library.
+
+* Continue on adding `five passing` test for `Create, Read, Update and Delete` operations using `phpunit`.
 
 
 # Finished
