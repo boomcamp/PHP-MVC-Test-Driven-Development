@@ -10,6 +10,8 @@ For this TDD project you need to add 10 passing tests inside `TDD_controller.php
 
 * Update `TDD/config/database.php` with your database credentials.
 
+* Install the [phpunit](https://phpcourse.now.sh/week-6/day-2/day-1) library.
+
 # Routes
 
 * http://localhost/TDD/test = The controller that you need to add the tests
