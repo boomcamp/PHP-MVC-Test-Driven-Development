@@ -12,11 +12,13 @@ For this TDD project you need implement `10 passing tests using CI built in test
 
 * Install the [phpunit](https://phpcourse.now.sh/week-6/day-2/day-1) library.
 
-# Routes
+# Tests locations
 
 * http://localhost/TDD/test = The controller that you need to add the tests
 
 * http://localhost/TDD/example = The controller that contains example passing tests
+
+* TDD/application/tests = The tests cases of PHPUnit.
 
 # Requirements
 
