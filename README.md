@@ -1,6 +1,6 @@
-# Test Driven Development
+# Introduction
 
-For this TDD project you need to add 10 passing tests inside `TDD_controller.php`.
+For this TDD project you need implement `10 passing tests using CI built in testing library` and `5 passing test using PHPUnit library` in PHP.
 
 # Initial Set Up
 
